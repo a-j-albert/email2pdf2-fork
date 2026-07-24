@@ -1,0 +1,18 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "python",
+      "interpreter": "(default)",
+      "interpreterArguments": "",
+      "scriptArguments": "--headers -i C:\\Isabella\\biome_emails\\A_shipment_from_order_SPSB1005_is_on_the_way.eml -o C:\\Isabella\\biome_emails\\A_shipment_from_order_SPSB1005_is_on_the_way.pdf",
+      "env": {},
+      "nativeDebug": false,
+      "webBrowserUrl": "",
+      "project": "email2pdf2\\__main__.py",
+      "projectTarget": "",
+      "name": "__main__.py(1)"
+    }
+  ]
+}
