@@ -2,7 +2,7 @@ import logging
 import sys
 import os
 from sys import platform as _platform
-from email2pdf2.email2pdf2 import call_main
+from email2pdf2 import call_main
 
 
 def setup_logger():
